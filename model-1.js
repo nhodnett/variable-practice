@@ -6,3 +6,5 @@ var is Subaru reliable = true
 var are motorBike dangerous = false
 var models = ['Crosstrek', 'Forester']
 var types = ['Sports Bike' 'Cruiser']
+var configure = {colors, accessories, wheel size 17" or 18"}
+var configure = {paint job, paniers 2 or 3}
